@@ -1,0 +1,23 @@
+{
+  "name": "luozhu-auto-digg",
+  "version": "1.0.0",
+  "description": "auto digg when luozhu is nearly 10000 juejin‘s ability value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingCommunism/luozhu-auto-digg.git"
+  },
+  "author": "hancao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodingCommunism/luozhu-auto-digg/issues"
+  },
+  "homepage": "https://github.com/CodingCommunism/luozhu-auto-digg#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "superagent": "^6.1.0"
+  }
+}
